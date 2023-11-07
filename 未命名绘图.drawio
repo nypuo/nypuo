@@ -1,70 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T06:15:25.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="0A7iL9QVXxURbYbrqN0S" version="20.3.2" type="github">
-  <diagram id="oHKPBbg4ZT1M1grYbJHT" name="第 1 页">
-    <mxGraphModel dx="1038" dy="556" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-11-07T13:31:44.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.0.8" etag="Nsaq0y03rtucGNO37ato" type="github">
+  <diagram name="第 1 页" id="Xji4R8Udd_G-8M7TpZf_">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OXk571BlNwUVqKnofS2D-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OXk571BlNwUVqKnofS2D-1" target="OXk571BlNwUVqKnofS2D-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OXk571BlNwUVqKnofS2D-1" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/mainframe.svg;" vertex="1" parent="1">
-          <mxGeometry x="90" y="140" width="48" height="45.6" as="geometry" />
-        </mxCell>
-        <mxCell id="OXk571BlNwUVqKnofS2D-2" value="ATS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="89" y="195" width="40" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="OXk571BlNwUVqKnofS2D-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OXk571BlNwUVqKnofS2D-3" target="OXk571BlNwUVqKnofS2D-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="292.4849999999999" y="162.03250000000003" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OXk571BlNwUVqKnofS2D-3" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/mainframe.svg;" vertex="1" parent="1">
-          <mxGeometry x="183" y="139.05" width="50" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="OXk571BlNwUVqKnofS2D-4" value="交换机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="179" y="195" width="54" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="OXk571BlNwUVqKnofS2D-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OXk571BlNwUVqKnofS2D-5" target="OXk571BlNwUVqKnofS2D-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="499" y="162.79999999999995" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OXk571BlNwUVqKnofS2D-5" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/modem.svg;" vertex="1" parent="1">
-          <mxGeometry x="319" y="142.04999999999998" width="50" height="41.5" as="geometry" />
-        </mxCell>
-        <mxCell id="OXk571BlNwUVqKnofS2D-6" value="新增服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="305" y="195" width="78" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="OXk571BlNwUVqKnofS2D-9" value="单向网闸" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="475" y="195" width="66" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="OXk571BlNwUVqKnofS2D-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="OXk571BlNwUVqKnofS2D-20" target="OXk571BlNwUVqKnofS2D-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OXk571BlNwUVqKnofS2D-20" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/web_server.svg;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="137.8" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OXk571BlNwUVqKnofS2D-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="277" y="97" width="446" height="144" as="geometry" />
-        </mxCell>
-        <mxCell id="OXk571BlNwUVqKnofS2D-23" value="民用通信机房" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="475" y="102" width="90" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="OXk571BlNwUVqKnofS2D-24" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="421" y="324" as="sourcePoint" />
-            <mxPoint x="418" y="33" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OXk571BlNwUVqKnofS2D-25" value="边界" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="325" width="42" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="OXk571BlNwUVqKnofS2D-27" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/modem.svg;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="647" y="142.05" width="50" height="41.5" as="geometry" />
-        </mxCell>
-        <mxCell id="OXk571BlNwUVqKnofS2D-30" value="接口服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="633" y="184" width="78" height="26" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
